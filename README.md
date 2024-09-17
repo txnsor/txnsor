@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @txnsor (Marc)
+- 👋 Hi, I’m @txnsor (Marc/Mari/Marceline)
 - 👀 I’m interested in digital signal processing, graphical programming, computer vision, and mathematics.
-- 🌱 I’m currently learning digital signal processing, graphic design, C++, Blu-Ray menus in Java, and Unreal Engine.
+- 🌱 I’m currently learning digital signal processing, graphic design, C, Rust, Optical Flow, and Unreal Engine.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email me at pentexb@gmail.com
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I started coding by making python discord bots in middle school :D
+- 😄 Pronouns: they/she
+- ⚡ Fun fact: I started coding by making Python discord bots in middle school :D
 
 <!---
 txnsor/txnsor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
