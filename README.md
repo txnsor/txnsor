@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning digital signal processing, graphic design, C, Rust, Optical Flow, and Unreal Engine.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email me at pentexb@gmail.com
-- 😄 Pronouns: they/she
 - ⚡ Fun fact: I started coding by making Python discord bots in middle school :D
 
 <!---
