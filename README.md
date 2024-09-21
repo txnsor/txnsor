@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @txnsor (Marc/Mari/Marceline)
+- 👋 Hi, I’m @txnsor!
 - 👀 I’m interested in digital signal processing, graphical programming, computer vision, and mathematics.
 - 🌱 I’m currently learning digital signal processing, graphic design, C, Rust, Optical Flow, and Unreal Engine.
 - 💞️ I’m looking to collaborate on anything!
