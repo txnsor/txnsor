@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @txnsor!
-- 👀 I’m interested in digital signal processing, graphical programming, computer vision, and mathematics.
-- 🌱 I’m currently learning digital signal processing, graphic design, C, Rust, Optical Flow, and Unreal Engine.
+- 👀 I’m interested in tech art, digital signals, and multithreading.
+- 🌱 I’m currently learning: graphics programming and C#.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email me at pentexb@gmail.com
 - ⚡ Fun fact: I started coding by making Python discord bots in middle school :D
